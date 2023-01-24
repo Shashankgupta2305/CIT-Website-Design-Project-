@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#headingme{
+  color: 7B8FA1;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#headingsmall{
+  color:7B8FA1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#aboutme{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+}
+
+#test{
+  padding-top:60px;
+}
